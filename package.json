@@ -1,0 +1,12 @@
+{
+	"name": "Palette",
+	"version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "request": "*",
+    "jade": "*",
+    "request": "*",
+    "canvas": "*"
+  }
+}
